@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\c_code\smart car\source\main.c(1): error C2061: 語法錯誤: 識別項 'System'
+c:\c_code\smart car\source\main.c(1): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(2): error C2061: 語法錯誤: 識別項 'Leap'
+c:\c_code\smart car\source\main.c(2): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(3): error C2061: 語法錯誤: 識別項 'System'
+c:\c_code\smart car\source\main.c(3): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(3): error C2059: 語法錯誤: '.'
+c:\c_code\smart car\source\main.c(4): error C2061: 語法錯誤: 識別項 'System'
+c:\c_code\smart car\source\main.c(4): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(4): error C2059: 語法錯誤: '.'
+c:\c_code\smart car\source\main.c(5): error C2061: 語法錯誤: 識別項 'System'
+c:\c_code\smart car\source\main.c(5): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(5): error C2059: 語法錯誤: '.'
+c:\c_code\smart car\source\main.c(6): error C2061: 語法錯誤: 識別項 'System'
+c:\c_code\smart car\source\main.c(6): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(6): error C2059: 語法錯誤: '.'
+c:\c_code\smart car\source\main.c(8): error C2061: 語法錯誤: 識別項 'LeapMotionDriverWindow'
+c:\c_code\smart car\source\main.c(8): error C2059: 語法錯誤: ';'
+c:\c_code\smart car\source\main.c(9): error C2449: 於檔案範圍找到 '{' (遺漏函式標頭?
+c:\c_code\smart car\source\main.c(160): error C2059: 語法錯誤: '}'
