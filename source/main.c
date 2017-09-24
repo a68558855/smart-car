@@ -159,6 +159,7 @@ namespace LeapMotionDriverWindow
 			if (this.OnGripReleased != null)
 				this.OnGripReleased(this, EventArgs.Empty);
 		}
+		afjekhfkahfkjehfkhfka
 	}
 	}
 }
