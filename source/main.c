@@ -154,6 +154,10 @@ namespace LeapMotionDriverWindow
 			lastHandGrabPosition = EMPTY_POINT;
 			if (this.OnGripReleased != null)
 				this.OnGripReleased(this, EventArgs.Empty);
+			/ if (lastHandGrabPosition == EMPTY_POINT) return;
+			lastHandGrabPosition = EMPTY_POINT;
+			if (this.OnGripReleased != null)
+				this.OnGripReleased(this, EventArgs.Empty);
 		}
 	}
 	}
